@@ -1,4 +1,4 @@
-# rules-us-ga Agent Notes
+# rulespec-us-ga Agent Notes
 
 This repo stores Georgia RuleSpec source registry materials and related policy metadata.
 
