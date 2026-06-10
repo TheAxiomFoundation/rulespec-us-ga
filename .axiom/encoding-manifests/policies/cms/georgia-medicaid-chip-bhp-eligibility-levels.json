@@ -1,0 +1,41 @@
+{
+  "applied_files": [
+    {
+      "path": "policies/cms/georgia-medicaid-chip-bhp-eligibility-levels.yaml",
+      "sha256": "1186f51c2cdb777dd982fd8dc4ee98d2d1b9a4fca3bdb3b9f4d838547e115535"
+    },
+    {
+      "path": "policies/cms/georgia-medicaid-chip-bhp-eligibility-levels.test.yaml",
+      "sha256": "239e282ec56d034e1c304ec3a8533daba4edff9d3c3241383bd42df9ad5f46c7"
+    }
+  ],
+  "axiom_encode_git": {
+    "commit": "fe99eb0b29a8299540e1b8b7598b5a8382d733d4",
+    "dirty_tracked": false,
+    "root": "/Users/maxghenis/_axiom-worktrees/axiom-encode-0.2.645-fe99eb0",
+    "version": "0.2.645",
+    "version_commit": "d507c5318a091e45752a020c68c59d790d2fc579"
+  },
+  "axiom_encode_version": "0.2.645",
+  "backend": "openai",
+  "citation": "policies/cms/georgia-medicaid-chip-bhp-eligibility-levels",
+  "context_manifest_file": "/tmp/axiom-encode-encodings/_eval_workspaces/openai-gpt-5.5/policies-cms-georgia-medicaid-chip-bhp-eligibility-levels/workspace/context-manifest.json",
+  "context_manifest_sha256": "703261f4b915b4ae2958ae63ac4e8c2630e9518bee68c86ca674f443eb8f44b6",
+  "generated_at": "2026-06-10T17:43:45.100884+00:00",
+  "generated_output_file": "/tmp/axiom-encode-encodings/openai-gpt-5.5/policies/cms/georgia-medicaid-chip-bhp-eligibility-levels.yaml",
+  "generated_output_root": "/tmp/axiom-encode-encodings",
+  "generated_output_sha256": "1186f51c2cdb777dd982fd8dc4ee98d2d1b9a4fca3bdb3b9f4d838547e115535",
+  "generation_prompt_sha256": "8ea6ca4074961ef1ba9449f3c4e5aa4c3426621f34b50cd78a3fed321c2a4e0f",
+  "model": "gpt-5.5",
+  "run_id": "12aaccb4",
+  "runner": "openai-gpt-5.5",
+  "schema_version": "axiom-encode/applied-rulespec/v1",
+  "signature": {
+    "algorithm": "hmac-sha256",
+    "key_id": "axiom-encode-apply-v1",
+    "value": "d8edd3f147617dbc0c74f704a047a555e32090e3c62302b4038e7397949e6111"
+  },
+  "tool": "axiom-encode encode --apply",
+  "trace_file": "/tmp/axiom-encode-encodings/traces/openai-gpt-5.5/policies-cms-georgia-medicaid-chip-bhp-eligibility-levels.json",
+  "trace_sha256": "a7b1a78bfd40445a6a195490d70d44c383971a9acba9e0f9b5ce1a8cdb763d7d"
+}
