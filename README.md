@@ -1,5 +1,9 @@
 # rulespec-us-ga
 
+This repository is archived. Its canonical content now lives in
+[`TheAxiomFoundation/rulespec-us`](https://github.com/TheAxiomFoundation/rulespec-us)
+under `us-ga/`; keep all future RuleSpec work there.
+
 Georgia RuleSpec source registry and policy metadata.
 
 ## Contents
@@ -12,4 +16,4 @@ Georgia RuleSpec source registry and policy metadata.
 
 Use RuleSpec YAML under `statutes/`, `regulations/`, or `policies/` for encoded rules. Keep source text with matching `.meta.yaml` files that record provenance and relations. Large XML or source payloads belong in object storage, with only registry or manifest metadata in Git.
 
-Jurisdiction-specific materials belong in this repo. Shared federal materials belong in `rulespec-us`.
+In the canonical monorepo, Georgia-administered materials live under `us-ga/`; shared federal materials live at the country root.
